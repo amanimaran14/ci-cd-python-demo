@@ -3,7 +3,7 @@
 # 1. Define variables (Using your provided token and confirmed ID)
 WEBEX_TOKEN="OWRkY2MyYTItZjc3ZS00MmFiLWI0OWItOTRlOTQzYTVmYWYxNGQ0NTc4MjctNGRh_P0A1_13494cac-24b4-4f89-8247-193cc92a7636"
 # Using the confirmed UUID format for the Space ID
-SPACE_ID="Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDBjNTQ1NDAtYmE3My0xMWYwLWE3MWEtYjdkMjY3Mzk1ZjVk"
+SPACE_ID="d0c54540-ba73-11f0-a71a-b7d267395f5d"
 
 # Jenkins environment variables are used here
 BUILD_STATUS="${BUILD_RESULT:-UNKNOWN}"
