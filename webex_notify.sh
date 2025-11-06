@@ -3,7 +3,7 @@
 # This script is executed by Jenkins after the build completes.
 
 # 1. Define variables (IMPORTANT: Replace placeholders with your actual values!)
-WEBEX_TOKEN=MDk2M2VjNjEtZjE3NS00OTE0LWE1YWEtYzQ3NjBkYWZlYWM2ZTZiNTIwZmMtZmIy_P0A1_13494cac-24b4-4f89-8247-193cc92a7636
+WEBEX_TOKEN=MjdiZDdiMDUtNjU1Yi00ZjZhLWE1OTktMTRlODUxMGJmOWZhZDRhYjVkZDgtMjZl_P0A1_13494cac-24b4-4f89-8247-193cc92a7636
 SPACE_ID=d0c54540-ba73-11f0-a71a-b7d267395f5d
 
 # Jenkins environment variables are used here
